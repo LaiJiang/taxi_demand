@@ -1,0 +1,5 @@
+Model,MAPE,Notes
+WMA,0.1813328803244722,Weighted Moving Average with window size 2
+RF_HW,0.1935809921596309,Random Forest with all features
+RF_no_HW,0.1505113006465069,Random Forest without Holt-Winters
+XGBoost,0.06646471867226925,XGBoost with all features

@@ -1,0 +1,2 @@
+max_depth,n_estimators,colsample_bytree,subsample
+2,300,0.5,0.7
